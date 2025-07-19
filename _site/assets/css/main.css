@@ -367,7 +367,7 @@ pre.highlight {
   color: #f39c12;
 }
 
-.fa-twitter {
+.fa-x-twitter {
   padding: 5px;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
@@ -375,7 +375,7 @@ pre.highlight {
   -moz-transition: 0.5s;
   transition: 0.5s;
 }
-.fa-twitter:hover {
+.fa-x-twitter:hover {
   color: #00aced;
 }
 
@@ -473,6 +473,18 @@ pre.highlight {
 }
 .fa-rss-square:hover {
   color: #ff6600;
+}
+
+.fa-telegram {
+  padding: 5px;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  -ms-transition: 0.5s;
+  -moz-transition: 0.5s;
+  transition: 0.5s;
+}
+.fa-telegram:hover {
+  color: #24A1DE;
 }
 
 /*# sourceMappingURL=main.css.map */

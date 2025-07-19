@@ -12,12 +12,14 @@
 
 # jekyll-paginate configuration
 paginate:            5
+lang: pl
 
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
 permalink:           /:title
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag, jekyll-archives]
+whitelist: jekyll-archives
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Tempus Barbaricum'
