@@ -4,7 +4,7 @@ title: Kontakt
 permalink: /contact
 ---
 
-Jeśli z jakiegoś powodu, chciałbyś się ze mną skontaktować, to preferuję poprzez e-mail: 
+Można się ze mną skontaktować poprzez maila: 
 
 Zachęcam także do śledzenia na mediach społecznościowych, ewentualnie można pisać też tam.
 
