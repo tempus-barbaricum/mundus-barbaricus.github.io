@@ -13,7 +13,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'fa-brands fa-github',     link: 'https://www.github.com/tempus-barbaricum'}
+- {icon: 'fa-brands fa-github',     link: 'https://www.github.com/mundus-barbaricus'}
 - {icon: 'fa-brands fa-x-twitter',    link: 'https://x.com'}
 - {icon: 'fa-brands fa-facebook',   link: 'http://www.facebook.com'}
 #- {icon: 'envelope',   link: 'mailto:xd@gmail.com'}
