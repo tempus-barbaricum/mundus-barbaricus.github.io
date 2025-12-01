@@ -1,2 +1,2 @@
-# tempus-barbaricum.github.io
+# mundus-barbaricus.github.io
 Writing about Middle Ages
